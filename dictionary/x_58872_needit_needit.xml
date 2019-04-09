@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="ANewField" max_length="40" name="anewfield" type="boolean"/>
         <element label="deleteme" max_length="2" name="deleteme" type="string"/>
     </element>
 </database>
